@@ -1,5 +1,5 @@
 
-//Verilən array-dəki rəqəmlərin hasilini tapan funksiya:
+//1.Verilən array-dəki rəqəmlərin hasilini tapan funksiya:
 
 // function ardi(a, b, c, ) {
 //     var x = [a, b, c,];
@@ -12,7 +12,7 @@
 // ardi(2, 5, 3, );
 
 
-// Verilən array-dəki rəqəmlərin kvadratlarının cəmini tapan funksiya:
+//2.Verilən array-dəki rəqəmlərin kvadratlarının cəmini tapan funksiya:
 
 // function arsu(a, b, c) {
 //     var x = [a, b, c];
@@ -25,7 +25,7 @@
 // arsu(1, 2, 2);
 
 
-//Verilən array-dəki cüt rəqəmlərin cəmini tapan funksiya:
+//3.Verilən array-dəki cüt rəqəmlərin cəmini tapan funksiya:
 
 // function arsu(a, b, c) {
 //     var x = [a, b, c];
