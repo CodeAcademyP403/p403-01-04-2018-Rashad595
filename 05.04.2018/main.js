@@ -1,7 +1,3 @@
-
-// var input = document.querySelector('#a');
-// var submit = document.querySelector('.btn-default');
-
 var input = document.querySelector('#a');
 var submit = document.querySelector('.btn-default');
 
